@@ -1,0 +1,9 @@
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.deps.json
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.pdb
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj.CoreCompileInputs.cache
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.AssemblyInfoInputs.cache
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.AssemblyInfo.cs
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.pdb
+F:\projects\demo\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.1\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csprojAssemblyReference.cache

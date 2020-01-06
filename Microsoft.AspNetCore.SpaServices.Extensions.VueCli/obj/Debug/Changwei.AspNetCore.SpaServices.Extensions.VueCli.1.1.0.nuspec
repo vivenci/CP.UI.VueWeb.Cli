@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Changwei.AspNetCore.SpaServices.Extensions.VueCli</id>
+    <version>1.1.0</version>
+    <authors>Changwei Zhang</authors>
+    <owners>Changwei Zhang</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/ChangweiZhang/Microsoft.AspNetCore.SpaServices.Extensions.VueCli/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/ChangweiZhang/Microsoft.AspNetCore.SpaServices.Extensions.VueCli</projectUrl>
+    <description>This extension is made for Vue CLI with ASP.NET Core, and you can use this middleware just as use Angular Cli middleware</description>
+    <tags>Vue</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="Microsoft.AspNetCore.SpaServices.Extensions" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\projects\working\CentralizedPlatform\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll" target="lib\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll" />
+  </files>
+</package>
