@@ -22,7 +22,7 @@
 - Https配置:
     - 在appsettings中添加顶级条目：
     ```bash
-      >{
+      {
          "https_port": 443,
          "Logging": {
              "LogLevel": {
@@ -32,7 +32,7 @@
              }
          },
          "AllowedHosts": "*"
-       } 
+      } 
     ```
     - 配置Https选项:
     ```bash
@@ -40,7 +40,7 @@
     ```
     - 配置中间件选项:
     ```bash
-      > public void ConfigureServices(IServiceCollection services)
+       public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
 
