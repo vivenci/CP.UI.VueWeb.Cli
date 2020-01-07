@@ -17,6 +17,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="F:\projects\working\CentralizedPlatform\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll" target="lib\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll" />
+    <file src="E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll" target="lib\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll" />
   </files>
 </package>

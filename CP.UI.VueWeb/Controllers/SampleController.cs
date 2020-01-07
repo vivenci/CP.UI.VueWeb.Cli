@@ -10,7 +10,7 @@ namespace CP.UI.VueWeb.Controllers
     {
         private static string[] Characters = new[]
         {
-            "A", "B", "C", "D", "E", "F", "G", "H", "I", "J"
+            "A", "B", "C", "D", "E", "F", "G", "H", "I", "J","k"
         };
 
         public IActionResult Index()

@@ -7775,11 +7775,11 @@
   "project": {
     "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "F:\\projects\\working\\CentralizedPlatform\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
+      "projectUniqueName": "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
       "projectName": "Changwei.AspNetCore.SpaServices.Extensions.VueCli",
-      "projectPath": "F:\\projects\\working\\CentralizedPlatform\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
+      "projectPath": "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "F:\\projects\\working\\CentralizedPlatform\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\obj\\",
+      "outputPath": "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7822,7 +7822,12 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true

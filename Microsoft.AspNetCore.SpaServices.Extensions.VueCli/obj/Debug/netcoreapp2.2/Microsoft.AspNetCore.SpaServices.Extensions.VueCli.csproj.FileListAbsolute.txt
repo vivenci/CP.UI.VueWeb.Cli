@@ -6,3 +6,12 @@ F:\projects\working\CentralizedPlatform\Microsoft.AspNetCore.SpaServices.Extensi
 F:\projects\working\CentralizedPlatform\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.AssemblyInfo.cs
 F:\projects\working\CentralizedPlatform\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll
 F:\projects\working\CentralizedPlatform\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.pdb
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.deps.json
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.pdb
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csprojAssemblyReference.cache
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj.CoreCompileInputs.cache
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.AssemblyInfoInputs.cache
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.AssemblyInfo.cs
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.dll
+E:\GitStore\CP.UI.VueWeb.Cli\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\obj\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.pdb

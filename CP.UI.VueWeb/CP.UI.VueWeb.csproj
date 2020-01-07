@@ -27,6 +27,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="localhost.pfx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="ClientApp\" />
   </ItemGroup>
 

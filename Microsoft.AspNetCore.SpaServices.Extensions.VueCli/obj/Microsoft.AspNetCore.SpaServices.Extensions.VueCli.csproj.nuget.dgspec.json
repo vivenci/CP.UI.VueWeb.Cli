@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projects\\demo\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj": {}
+    "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj": {}
   },
   "projects": {
-    "F:\\projects\\demo\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj": {
+    "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj": {
       "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "F:\\projects\\demo\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
+        "projectUniqueName": "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
         "projectName": "Changwei.AspNetCore.SpaServices.Extensions.VueCli",
-        "projectPath": "F:\\projects\\demo\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
+        "projectPath": "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "F:\\projects\\demo\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli-master\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\obj\\",
+        "outputPath": "E:\\GitStore\\CP.UI.VueWeb.Cli\\Microsoft.AspNetCore.SpaServices.Extensions.VueCli\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,7 +21,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -29,7 +29,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -40,16 +40,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.AspNetCore.SpaServices.Extensions": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
